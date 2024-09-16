@@ -1,0 +1,5 @@
+title,author,id,location,isEnabled,isPurchasable,itemType,stock
+design patterns: elements of reusable object-oriented software,"erich gamma, john vlissides, richard helm, ralph johnson",1,1st floor,TRUE,FALSE,book,20
+head first design patterns,"eric freeman, elisabeth robson, bert bates, kathy sierra",2,1st floor,TRUE,FALSE,book,20
+forbes magazine,forbes,3,2nd floor,TRUE,FALSE,magazine,20
+folk jazz cd 1,joe smith,4,3rd floor,TRUE,FALSE,cd,20

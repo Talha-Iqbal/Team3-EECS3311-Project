@@ -1,0 +1,5 @@
+name,id,email,password,type
+Foo,1,foo@yorku.ca,Foo123!,faculty
+Bar,2,bar@yorku.ca,Bar123!,student
+FooBar,3,foobar@yorku.ca,FooBar123!,non_faculty
+BarFoo,-1,barfoo@yorku.ca,BarFoo123!,visitor
